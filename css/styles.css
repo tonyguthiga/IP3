@@ -52,3 +52,6 @@ input[type="text"],textarea[type="text"],input[type="email"]{
 .design-showing .develop-showing .product-showing{
     display: none;
 }
+.clickable {
+    cursor: pointer;
+  }
