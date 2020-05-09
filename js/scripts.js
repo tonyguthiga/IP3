@@ -15,7 +15,6 @@ $(document).ready(function() {
 $(document).ready(function() {
   $(".clickable").click(function() {
     $(".product-showing").toggle();
-    $(".product-hidden").toggle();
+    $(".develop-hidden").toggle();
   });
 });
-
