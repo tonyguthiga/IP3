@@ -34,10 +34,18 @@
     text-align: center;
     padding-top: 2%;
 }
+input[type="text"],textarea[type="text"],input[type="email"]{
+    outline: none;
+    background-color: transparent;
+    color: white;
+    font-weight: 500;
+    font-family: 'Gugi', cursive;
+}
+.form-control::placeholder{
+    color: white;
+    opacity: 1;
+}
 .footer{
     text-align: center;
-    padding: 20px;
-}
-.footer p{
-    padding: 20px;
+    padding-top: 40px;
 }
