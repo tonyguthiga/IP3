@@ -1,20 +1,21 @@
 $(document).ready(function() {
-  $("img").click(function() {
+  $(".clickable").click(function() {
     $(".design-showing").toggle();
     $(".design-hidden").toggle();
   });
 });
 
 $(document).ready(function() {
-    $("img").click(function() {
-      $(".develop-showing").toggle();
-      $(".develop-hidden").toggle();
-    });
+  $(".clickable").click(function() {
+    $(".develop-showing").toggle();
+    $(".develop-hidden").toggle();
   });
+});
 
-  $(document).ready(function() {
-    $("img").click(function() {
-      $(".product-showing").toggle();
-      $(".product-hidden").toggle();
-    });
+$(document).ready(function() {
+  $(".clickable").click(function() {
+    $(".product-showing").toggle();
+    $(".product-hidden").toggle();
   });
+});
+
