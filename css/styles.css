@@ -25,4 +25,13 @@
     text-align: center;
     padding-top: 8%;
 }
+#contact{
+    background: url("../assets/backgrounds/c_image.jpg");
+    width: 100%;
+    height: 65vh;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+}
 
