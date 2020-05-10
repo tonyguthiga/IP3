@@ -3,15 +3,12 @@ $(document).ready(function() {
         $(this).children(".hide").slideToggle(1500);
         $(this).children(".show").toggle(1500);
     });
+
+    $(".slide").hover( function() {
+        $(this).find(".img-title").fadeIn(300);
+    }, function() {
+        $(this).find(".img-title").fadeOut(100);
+    });
 });
 
 
-$(document).ready(function(){
-    $(".space").hover(function(){
-        $("#main").fadeOut("slow");
-        $("#overlay").fadeIn("Space App");
-    }, function(){
-        $("#overlay").fadeOut("Space App");
-        $("#main").fadeIn("slow");
-    });
-})
