@@ -13,8 +13,7 @@
 <p>git commit -am and make a comment,so as to add and commit the changes made.<p>
 <p>Push the changes and create a pull request<p>
 
-<h2>Screen Shot<h2>
-<img src="">
+<h2>Live Link<h2>
 <p>Here is a live link to the application: <p>
 
 <h2>Behavoir Driven Developement<h2>
