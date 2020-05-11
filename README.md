@@ -7,14 +7,14 @@
 <p>To enhance the application or fix any bug;<p>
 <p>Fork the project<p>
 <p>Open the project using any Text Editor<p>
-<p>git clone the <p>
+<p>git clone the https://github.com/tonyguthiga/IP3.git<p>
 <p>Create a new branch<p>
 <p>Make appropriate changes to the file<p>
 <p>git commit -am and make a comment,so as to add and commit the changes made.<p>
 <p>Push the changes and create a pull request<p>
 
 <h2>Live Link<h2>
-<p>Here is a live link to the application: <p>
+<p>Here is a live link to the application: https://tonyguthiga.github.io/IP3/<p>
 
 <h2>Behavoir Driven Developement<h2>
 <h2>Enter your name in the fill in form<h2>
