@@ -9,6 +9,11 @@ $(document).ready(function() {
     }, function() {
         $(this).find(".img-title").fadeOut(100);
     });
+
+    $("form#responce").submit(function(){
+        var name = $("#b_name").val();
+        alert(name + " we have received your message. Thank you for reaching out to us.")
+    })
 });
 
 
